@@ -6,7 +6,7 @@ PICKLEVO は、iPhone・iPad 向けのピックルボール練習アプリです
 
 不具合やご要望は、GitHub Issues からお知らせください（GitHub アカウントが必要です）。
 
-- [Issues を開く](https://github.com/tf-kirin777/picklevo-site/issues)
+- [Issues を開く](https://github.com/kirin-mugen/picklevo/issues)
 
 ## よくある質問
 

@@ -1,3 +1,53 @@
+# PICKLEVO Privacy Policy
+
+Last updated: September 19, 2026
+Applies to: version 0.1.0
+
+## 1. Overview
+
+PICKLEVO ("the app") is a pickleball practice companion for iPhone and iPad. We respect your privacy and handle only the information needed to provide the app's features.
+
+## 2. Information stored on your device
+
+The app stores the following information only on your device:
+
+- Practice menus you create and their progress
+- Timer settings and presets
+- Strategy board contents
+- App settings such as language, theme, and volume
+
+This information is used solely to provide the app's features and is never sent to the developer or any third party. You can edit or delete it within the app. Deleting the app removes all of its data from your device.
+
+## 3. Data collection
+
+The app does not transmit user data off the device for the developer or third parties to store or use. It contains no advertising, tracking, third-party analytics SDKs, user accounts, or cloud sync.
+
+## 4. Camera, microphone, and speech recognition
+
+This version (0.1.0) does not use the camera, microphone, or speech recognition, and does not request those permissions.
+
+If a future version adds camera-based form training, video will be processed on the device and never stored or transmitted, and this policy and the App Store privacy details will be updated before release.
+
+## 5. Children's privacy
+
+The app does not collect names, contact details, dates of birth, or any other personal information. It is not offered in the App Store Kids category.
+
+## 6. Health and medical notice
+
+The app helps you plan and run practice sessions. It does not provide medical advice, diagnosis, or treatment, is not intended to prevent injury, and does not replace professional coaching.
+
+## 7. Changes to this policy
+
+If data handling changes because of new features, this policy and the App Store privacy details will be updated. Significant changes will be announced in the app or on the support page.
+
+## 8. Contact
+
+For bug reports, privacy questions, or help deleting on-device data, use the support page:
+
+https://kirin-mugen.github.io/picklevo/
+
+---
+
 # PICKLEVO プライバシーポリシー
 
 最終更新日: 2026年9月19日
@@ -5,47 +55,36 @@
 
 ## 1. 基本方針
 
-PICKLEVO（以下「本アプリ」）は、ピックルボールのフォーム練習を補助するiPhone・iPad向けアプリです。本アプリは、利用者のプライバシーを尊重し、必要な範囲を超えて情報を取り扱いません。
+PICKLEVO（以下「本アプリ」）は、ピックルボールの練習を補助するiPhone・iPad向けアプリです。本アプリは、利用者のプライバシーを尊重し、必要な範囲を超えて情報を取り扱いません。
 
-## 2. カメラデータ
+## 2. 端末内に保存する情報
 
-本アプリはフォーム解析のためにカメラを使用します。カメラ映像は端末内でリアルタイム処理されます。
+本アプリは、次の情報を利用者の端末内にのみ保存します。
 
-- カメラ映像や画像をファイルとして保存しません
-- カメラ映像や画像を開発者または第三者へ送信しません
-- カメラ権限は端末の設定からいつでも変更できます
+- 作成した練習メニューと進行状況
+- タイマーの設定とプリセット
+- 戦術ボードの内容
+- 表示言語、テーマ、音量などのアプリ設定
 
-## 2-2. マイクと音声認識
+これらの情報は本アプリの機能提供にのみ使用し、開発者または第三者へ送信しません。各データはアプリ内から編集・削除できます。アプリを削除した場合、端末内のアプリデータもすべて削除されます。
 
-本アプリは、カメラ練習中に「開始」「停止」「再開」「終了」などの音声コマンドで操作するために、マイクと音声認識を使用します。音声コマンドは任意の機能で、権限を許可しなくてもカメラ練習は利用できます。
+## 3. 外部へのデータ収集
 
-- 音声を録音・保存しません
-- 音声や認識結果を開発者へ送信しません
-- 端末内音声認識に対応した端末では、音声は端末内で処理され端末外へ送信されません
-- 端末内音声認識に対応していない端末では、認識のためにAppleの音声認識サービスへ音声が送信されることがあります。この取扱いはAppleのプライバシーポリシーに従います
-- マイク権限および音声認識権限は端末の設定からいつでも変更できます
+本アプリは、利用者データを端末外へ送信して開発者または第三者が保持・利用する機能を持ちません。広告、行動追跡、外部分析SDK、ユーザーアカウント、クラウド同期は使用していません。
 
-## 3. 端末内に保存する情報
+## 4. カメラ・マイク・音声認識
 
-本アプリは、次の情報を利用者の端末内に保存します。
+このバージョン（0.1.0）では、カメラ、マイク、音声認識を使用せず、これらの権限を求めることもありません。
 
-- 練習日時と練習時間
-- 姿勢評価の数値、スコア、改善案内の集計
-- 音声案内、骨格表示、利き手、初期カメラなどのアプリ設定
-
-これらの情報は本アプリの機能提供にのみ使用し、開発者または第三者へ送信しません。練習履歴はアプリ内の「設定」→「練習履歴を管理」から個別または一括で削除できます。アプリを削除した場合も、端末内のアプリデータは削除されます。
-
-## 4. 外部へのデータ収集
-
-現在のバージョンは、利用者データを端末外へ送信して開発者または第三者が保持・利用する機能を持ちません。広告、行動追跡、外部分析SDK、ユーザーアカウント、クラウド同期は使用していません。
+将来のバージョンでカメラを使ったフォーム練習機能を提供する場合は、映像を端末内で処理し保存・送信しない設計とし、公開前にこのポリシーとApp Store上のプライバシー回答を更新します。
 
 ## 5. 子どものプライバシー
 
-本アプリは利用者の氏名、連絡先、生年月日などを収集しません。App StoreのKidsカテゴリ向けアプリとして提供するものではありません。保護者は、必要に応じて端末のカメラ権限や利用時間を管理してください。
+本アプリは利用者の氏名、連絡先、生年月日などを収集しません。App StoreのKidsカテゴリ向けアプリとして提供するものではありません。
 
 ## 6. 健康・医療に関する注意
 
-本アプリの解析結果は練習上の参考情報です。医療上の助言、診断、治療、けがの予防を目的とせず、専門家の指導を代替しません。
+本アプリは練習の準備と進行を補助するものです。医療上の助言、診断、治療、けがの予防を目的とせず、専門家の指導を代替しません。
 
 ## 7. ポリシーの変更
 
@@ -55,8 +94,8 @@ PICKLEVO（以下「本アプリ」）は、ピックルボールのフォーム
 
 不具合、プライバシー、端末内データの削除方法に関する問い合わせは、次のサポートページから受け付けます。
 
-https://tf-kirin777.github.io/picklevo-site/
+https://kirin-mugen.github.io/picklevo/
 
 ---
 
-[サポートページへ戻る](./)
+[Back to support / サポートへ戻る](./)

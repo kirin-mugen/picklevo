@@ -1,7 +1,7 @@
 # PICKLEVO Privacy Policy
 
-Last updated: September 19, 2026
-Applies to: version 0.1.0
+Last updated: September 30, 2026
+Applies to: version 1.1.0
 
 ## 1. Overview
 
@@ -14,6 +14,7 @@ The app stores the following information only on your device:
 - Practice menus you create and their progress
 - Timer settings and presets
 - Strategy board contents
+- Challenge settings and play results (which courses you hit, ready-position checks, and scores)
 - App settings such as language, theme, and volume
 
 This information is used solely to provide the app's features and is never sent to the developer or any third party. You can edit or delete it within the app. Deleting the app removes all of its data from your device.
@@ -24,9 +25,27 @@ The app does not transmit user data off the device for the developer or third pa
 
 ## 4. Camera, microphone, and speech recognition
 
-This version (0.1.0) does not use the camera, microphone, or speech recognition, and does not request those permissions.
+These permissions are used only while you play Challenge. No other feature (Timer, Practice Menu, Strategy Board) uses them.
 
-If a future version adds camera-based form training, video will be processed on the device and never stored or transmitted, and this policy and the App Store privacy details will be updated before release.
+### Camera
+
+The front camera feed is analyzed **on your device in real time** to track your body position and the ball, so the app can judge hits and check your ready position.
+
+- Video is **never recorded or saved**. Analysis happens in memory and each frame is discarded immediately after processing.
+- Neither the video nor anything derived from it is **sent to the developer or any third party**, and nothing is written to your photo library.
+- What remains on the device is only **numeric records**: which course you hit, ready-position checks, and your score.
+
+### Microphone and speech recognition
+
+Used so you can control a session by voice ("start", "stop") while you play. You can turn this off with the Voice control setting.
+
+- Audio is **never recorded or saved**.
+- Speech recognition prefers **on-device recognition** when your device supports it. If it does not, Apple's speech recognition service may process the audio, governed by Apple's privacy policy.
+- The developer never receives any audio data.
+
+### Granting permission
+
+iOS asks for these permissions the first time you open Challenge. You can decline and still use the app: Timer, Practice Menu, and Strategy Board work without restriction. You can revoke permission at any time in the iOS Settings app.
 
 ## 5. Children's privacy
 
@@ -50,8 +69,8 @@ https://kirin-mugen.github.io/picklevo/
 
 # PICKLEVO プライバシーポリシー
 
-最終更新日: 2026年9月19日
-対象バージョン: 0.1.0
+最終更新日: 2026年9月30日
+対象バージョン: 1.1.0
 
 ## 1. 基本方針
 
@@ -64,6 +83,7 @@ PICKLEVO（以下「本アプリ」）は、ピックルボールの練習を補
 - 作成した練習メニューと進行状況
 - タイマーの設定とプリセット
 - 戦術ボードの内容
+- チャレンジの設定と、プレイ結果（命中したコース、構えの判定、スコア）
 - 表示言語、テーマ、音量などのアプリ設定
 
 これらの情報は本アプリの機能提供にのみ使用し、開発者または第三者へ送信しません。各データはアプリ内から編集・削除できます。アプリを削除した場合、端末内のアプリデータもすべて削除されます。
@@ -74,9 +94,27 @@ PICKLEVO（以下「本アプリ」）は、ピックルボールの練習を補
 
 ## 4. カメラ・マイク・音声認識
 
-このバージョン（0.1.0）では、カメラ、マイク、音声認識を使用せず、これらの権限を求めることもありません。
+「チャレンジ」の練習中のみ、次の権限を使用します。ほかの機能（タイマー、練習メニュー、戦術ボード）では一切使用しません。
 
-将来のバージョンでカメラを使ったフォーム練習機能を提供する場合は、映像を端末内で処理し保存・送信しない設計とし、公開前にこのポリシーとApp Store上のプライバシー回答を更新します。
+### カメラ
+
+前面カメラの映像から、利用者の姿勢とボールの位置を**端末内でリアルタイムに解析**し、命中判定と構え（レディーポジション）の判定に使います。
+
+- 映像は**録画・保存しません**。解析はメモリ上で行い、フレームは処理後ただちに破棄します。
+- 映像やそこから作られたデータを、**開発者や第三者へ送信しません**。写真ライブラリにも保存しません。
+- 端末に残るのは、命中したコース番号・構えの判定・スコアといった**数値の記録だけ**です。
+
+### マイクと音声認識
+
+練習中に「開始」「停止」などの音声コマンドで操作するために使用します（設定の「音声操作」でオフにできます）。
+
+- 音声は**録音・保存しません**。
+- 音声認識は、端末が対応している場合は**オンデバイス認識**を優先します。端末が対応していない場合は、Appleの音声認識サービスが処理する場合があります。この処理はAppleのプライバシーポリシーに従います。
+- 開発者は音声データを受け取りません。
+
+### 権限の許可について
+
+これらの権限は、チャレンジを初めて開くときにiOSが確認します。許可しなくてもアプリは使用でき、タイマー・練習メニュー・戦術ボードは制限なく動作します。許可はいつでもiOSの「設定」アプリから取り消せます。
 
 ## 5. 子どものプライバシー
 
